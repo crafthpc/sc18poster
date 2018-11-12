@@ -1,6 +1,6 @@
 ## Automatic Generation of Mixed-Precision Programs
 
-![Pipeline Diagram](https://github.com/crafthpc/sc18poster/Pipeline_picture.png)
+[Pipeline Diagram](https://github.com/crafthpc/sc18poster/Pipeline_picture.png)
 
 Relevant software repositories:
 
