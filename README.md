@@ -1,6 +1,5 @@
-## Automatic Generation of Mixed-Precision Programs
-
 ![Pipeline Diagram](/pipeline_picture.png)
+## Automatic Generation of Mixed-Precision Programs
 
 Relevant software repositories:
 
@@ -12,5 +11,5 @@ Other resources:
 
 * [Poster](/poster.pdf) and [abstract](/extended_abstract.pdf)
 * [Instructions](https://github.com/crafthpc/craft/blob/master/README.md#variable-mode-newer) on how to use the pipeline via the CRAFT tuning wizard
-* Installation script (TBD)
+* Installation script (Coming Soon!)
 * Demo: [Sum2piX](https://www.youtube.com/watch?v=uRdvEc77cBY)
