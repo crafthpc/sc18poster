@@ -1,6 +1,6 @@
 ## Automatic Generation of Mixed-Precision Programs
 
-[Pipeline Diagram](/pipeline_picture.png)
+![Pipeline Diagram](/pipeline_picture.png)
 
 Relevant software repositories:
 
