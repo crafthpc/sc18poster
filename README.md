@@ -1,10 +1,5 @@
-![Pipeline Diagram](/pipeline.png)
-
-clear:
-![Pipeline Diagram](/Picture_clear.png)
-
-white:
 ![Pipeline Diagram](/pipeline_white.png)
+
 ## Automatic Generation of Mixed-Precision Programs
 
 Relevant software repositories:
