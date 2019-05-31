@@ -6,7 +6,7 @@ Relevant software repositories:
 
 * [CRAFT](https://github.com/crafthpc/craft)
 * [Rose/TypeForge](https://github.com/rose-compiler/rose-develop)
-* ADAPT (TBD)
+* [ADAPT](https://github.com/LLNL/adapt-fp)
 
 Other resources:
 
